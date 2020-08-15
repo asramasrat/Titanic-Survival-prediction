@@ -9,15 +9,15 @@ Also Another hypothesis is that First class passenger were given preference whil
 
 # Data Description:
 We have a data set with the following columns :
-•	pclass: Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
-•	survived: Survival (0 = No; 1 = Yes)
-•	name: Name
-•	sex: Sex
-•	age: Age
-•	sibsp: Number of siblings/spouses aboard
-•	parch: Number of parents/children aboard
-•	fare: Passenger fare (British pound)
-•	embarked: Port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+1.	pclass: Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
+2. survived: Survival (0 = No; 1 = Yes)
+3. name: Name
+4. sex: Sex
+5. age: Age
+6. sibsp: Number of siblings/spouses aboard
+7. parch: Number of parents/children aboard
+8. fare: Passenger fare (British pound)
+9. embarked: Port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 #   Pipeline
 1.	Understand different features in the training dataset
